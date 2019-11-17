@@ -3,5 +3,7 @@
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="src" path="Creational/Singleton"/>
 	<classpathentry kind="src" path="Creational/Prototype"/>
+	<classpathentry kind="src" path="Creational/FactoryMethod"/>
+	<classpathentry kind="src" path="Creational/AbstractFactory"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
