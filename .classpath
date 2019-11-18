@@ -5,5 +5,6 @@
 	<classpathentry kind="src" path="Creational/Prototype"/>
 	<classpathentry kind="src" path="Creational/FactoryMethod"/>
 	<classpathentry kind="src" path="Creational/AbstractFactory"/>
+	<classpathentry kind="src" path="Creational/Builder"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
